@@ -1,0 +1,9 @@
+.singleProduct {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.singleProduct button {
+  width: 25%;
+}

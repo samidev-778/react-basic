@@ -1,0 +1,12 @@
+.navbar {
+  list-style-type: none;
+  display: flex;
+  padding-left: 0;
+}
+
+.navbar li button {
+  border: none;
+  background-color: white;
+  padding: 5px 10px;
+  cursor: pointer;
+}

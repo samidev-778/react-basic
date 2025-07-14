@@ -1,0 +1,25 @@
+.productItem {
+  opacity: 0;
+  transition-duration: 1s;
+}
+
+.productItem.visible {
+  opacity: 1;
+}
+
+.productItem button {
+  width: 100%;
+  border: 1px solid #27ae60;
+  color: #27ae60;
+  cursor: pointer;
+}
+
+.productItem button:hover {
+  border: 1px solid #2980b9 !important;
+  color: #2980b9 !important;
+}
+
+.productItem button.Added {
+  border: 1px solid #2980b9 !important;
+  color: #2980b9 !important;
+}

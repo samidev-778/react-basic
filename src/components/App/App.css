@@ -1,0 +1,41 @@
+.App {
+  text-align: left;
+  padding: 15px;
+}
+
+.products {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.products li {
+  margin: 10px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+}
+
+.products li h3 {
+  padding: 0;
+  margin: 5px;
+}
+
+.products li img {
+  width: 100%;
+  height: 150px;
+}
+
+.products li span {
+  padding: 10px;
+  width: 100%;
+  height: 20px;
+}
+
+.products li button {
+  width: 100%;
+  border: 1px solid grey;
+  cursor: pointer;
+}
