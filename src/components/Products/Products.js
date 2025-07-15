@@ -1,11 +1,15 @@
 import ProductItem from "../ProductItem/ProductItem";
+import Slideshow from "../Slideshow/Slideshow";
 
 const Products = ({ data }) => (
-  <ul className="products">
-    {data.map((item) => (
-      <ProductItem data={item} />
-    ))}
-  </ul>
+  <div>
+    <Slideshow />
+    <ul className="products">
+      {data.map((item) => (
+        <ProductItem key={item.id} data={item} />
+      ))}
+    </ul>
+  </div>
 );
 
 // const Products = (**props**) => {           روش دوم

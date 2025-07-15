@@ -18,7 +18,7 @@ function App() {
       value={{ theme: themeConfig[activeTheme], setActiveTheme }}
     >
       <div className="App">
-        <BrowserRouter>
+        <BrowserRouter basename="/react-basic">
           <Layout>
             <Routes>
               <Route path="/" element={<Products data={PRODUCTS} />} />
