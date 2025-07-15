@@ -1,14 +1,18 @@
 {
   "files": {
-    "main.css": "/react-basic/static/css/main.f6cd4f40.css",
-    "main.js": "/react-basic/static/js/main.ea34e722.js",
+    "main.css": "/react-basic/static/css/main.8a789c80.css",
+    "main.js": "/react-basic/static/js/main.8606a252.js",
     "static/media/ME.jpg": "/react-basic/static/media/ME.a29a910e26de16b7782b.jpg",
+    "static/media/slick.svg": "/react-basic/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react-basic/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react-basic/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react-basic/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/react-basic/index.html",
-    "main.f6cd4f40.css.map": "/react-basic/static/css/main.f6cd4f40.css.map",
-    "main.ea34e722.js.map": "/react-basic/static/js/main.ea34e722.js.map"
+    "main.8a789c80.css.map": "/react-basic/static/css/main.8a789c80.css.map",
+    "main.8606a252.js.map": "/react-basic/static/js/main.8606a252.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6cd4f40.css",
-    "static/js/main.ea34e722.js"
+    "static/css/main.8a789c80.css",
+    "static/js/main.8606a252.js"
   ]
 }
